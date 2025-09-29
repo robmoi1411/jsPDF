@@ -1,0 +1,5 @@
+claim-assistant/
+│── index.html
+│── server.js
+│── package.json  (auto from npm init)
+│── .gitignore
